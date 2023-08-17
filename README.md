@@ -29,11 +29,6 @@ Repositories overview
 ## Algorithms
  - [Leetcode](https://github.com/Vadiksimf/algorithms)
 
-## 🌐 Web Development
-
-- [SQL and PostgreSQL Quickly](https://github.com/Vadiksimf/sql_psql_quickly)
-  Quick reference guide for SQL and PostgreSQL.
-
 ## 🔒 Security
 
 - [Secure Headers](https://github.com/Vadiksimf/secure_headers)
@@ -70,7 +65,8 @@ Repositories overview
 
 ## 🗄️ Databases
 
-- [PostgreSQL](https://github.com/Vadiksimf/algorithms)
+- [SQL and PostgreSQL Quickly](https://github.com/Vadiksimf/sql_psql_quickly)
+  Quick reference guide for SQL and PostgreSQL.
 
 - [Sequelize Quickly](https://github.com/Vadiksimf/sequelize_quickly)
 
