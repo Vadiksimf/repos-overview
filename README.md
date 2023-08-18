@@ -1,8 +1,6 @@
 # My GitHub Repositories Overview
 Repositories overview
 
-# My GitHub Repositories
-
 ## 🚀 Boilerplates
 
 - [Electron Boilerplate](https://github.com/Vadiksimf/electron-boilerplate)
