@@ -18,6 +18,9 @@ Repositories overview
 
 ## 💡 Ethereum Smart Contracts
 
+- [How to work with Ethereum](https://github.com/Vadiksimf/ethereum_quickly)
+  Information and instruments to work with Ethereum and web3.js
+
 - [Solidity Real Estate](https://github.com/Vadiksimf/solidity_real_estate)
   Smart contracts for real estate transactions.
 
